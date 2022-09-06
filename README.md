@@ -1,10 +1,10 @@
 # RecipesWebsite -  https://sal-recipes.cs.bgu.ac.il
 
-As part of a web development environment course we developed a full stack web application.
+*As part of a web development environment course we developed a full stack web application.
 
-This project includes an API for the Client-Server communication using Yaml.
+*Built an API for the Client-Server communication using Yaml.
 
-A server side using node.js and database using mySQL for receive and respond requests according to the API.
+*Built a server side and client side to receive and respond requests according to the API.
 
 
 
