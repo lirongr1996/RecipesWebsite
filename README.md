@@ -1,10 +1,9 @@
-# RecipesWebsite
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7949769&assignment_repo_type=AssignmentRepo)
+# RecipesWebsite -  https://sal-recipes.cs.bgu.ac.il
 
-
-Link to the site- https://sal-recipes.cs.bgu.ac.il
 As part of a web development environment course we developed a full stack web application.
+
 This project includes an API for the Client-Server communication using Yaml.
+
 A server side using node.js and database using mySQL for receive and respond requests according to the API.
 
 
