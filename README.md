@@ -1,5 +1,4 @@
-# Full-stack web application for recipe management -  https://sal-recipes.cs.bgu.ac.il
-
+# Full-stack web application for recipe management 
 * Developed a comprehensive full-stack web application for recipe management utilizing Node.js, Vue.js, and YAML.
 * Implemented essential features such as creating, editing, viewing, and deleting recipes within the application.
 * Integrated powerful search functionality with multiple filters to enhance user experience and ease of recipe discovery
